@@ -1,5 +1,6 @@
 # WE ARE NEWSHARE
 Think data. Think solutions.
+
 ![Logo](https://github.com/NewShare-co/.github/blob/master/profile/group_1.jpg?raw=true)
 
 
