@@ -1,7 +1,7 @@
 # WE ARE NEWSHARE
 Think data. Think solutions.
+![Logo](https://github.com/NewShare-co/.github/blob/master/profile/group_1.jpg?raw=true)
 
-![](group_1.jpg)
 
 ## WHO WE ARE
 *ABOUT*
@@ -30,3 +30,4 @@ Supply Chain, IT and Business Process professionals, passionate about positionin
 NewShare leverages leading analytics and business intelligence platforms, ensuring your business has the innovative edge.
 
 Affective, meaningful and engaging user-focused platforms, aimed at enhancing user adoption and maximising value.
+
