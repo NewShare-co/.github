@@ -1,7 +1,7 @@
+![](group_1.jpg)
+
 # WE ARE NEWSHARE
 Think data. Think solutions.
-
-![](group_1.jpg)
 
 ## WHO WE ARE
 *ABOUT*
@@ -31,7 +31,5 @@ NewShare leverages leading analytics and business intelligence platforms, ensuri
 
 Affective, meaningful and engaging user-focused platforms, aimed at enhancing user adoption and maximising value.
 
-#
-#
 
-![](Image.png)
+![](Image.png?style=centerme)
