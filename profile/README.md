@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/NewShare-co/.github/blob/master/profile/group_1.jpg?raw=true)
+![Logo](https://github.com/NewShare-co/.github/blob/master/profile/newshare.png?raw=true)
 
 # WE ARE NEWSHARE
 We build data products, putting data to action 🦾. We manage the complex stuff, combining data engineering, software development and business experience to keep things simple and smart.
